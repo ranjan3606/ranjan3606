@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced frontend Developer (4+ years) specialising in scalable SaaS solutions and AI integration. Proficient <br>in JavaScript, React/NextJS, Node, MongoDB, and Express/NestJS, with hands-on expertise in Langchain, <br>OpenAI, Gemini API, and Vector Databases. Passionate about building intelligent applications using Generative <br>AI, Prompt Engineering, RAG (Retrieval-Augmented Generation), and Agentic AI. Combines full-stack <br>development skills with AI-driven automation and prompt engineering to deliver high-performance, responsive, <br>and user-friendly applications.  Love & Support for JavaScript. 
+Results-driven Full Stack Developer with 4+ years of experience building scalable SaaS web applications and cross-platform products using React.js, Next.js, Node.js, and MongoDB. Proven track record of delivering pixel-perfect, high-performance UIs, RESTful API integrations, and end-to-end MERN stack solutions. Experienced in Agile environments, real-time systems (Socket.io), AI integrations, and cloud deployments (AWS S3, Docker). Passionate about clean code, developer experience, and measurable product impact.
 
 
 # 💻 Tech Stack:
